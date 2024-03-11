@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-OnboardingScreen         |  Login       |   Login               |  HomeScreen
+OnboardingScreen         |  Login       |   Sign Up               |  HomeScreen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/DanialYazdanParast/blogclub/assets/150327854/108dc93e-4309-48cd-8194-804b0cbe002a)|![](https://github.com/DanialYazdanParast/blogclub/assets/150327854/d074bf18-77b0-449c-a323-3df8ab9def55)|![](https://github.com/DanialYazdanParast/blogclub/assets/150327854/e42efc71-38d0-4709-a4b6-0dedefc9a364)|![](https://github.com/DanialYazdanParast/blogclub/assets/150327854/6abd8d86-ac51-432c-ba47-7a1202d169df)|
 
